@@ -13,11 +13,11 @@ assignees: # Users to assign downtime issues (optional)
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  # cname: demo.upptime.js.org
+  cname: status.deerwalk.edu.np
   # baseUrl: /your-repo-name
-  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Deerwalk Status
-  introTitle: "Status of all application built by Deerwalk R & D"
+  introTitle: "Status of all applications built by Deerwalk R & D"
   introMessage: Hello
   navbar:
     - title: Status
