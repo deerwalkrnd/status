@@ -15,10 +15,25 @@ sites:
     url: https://deerwalk.edu.np/
   - name: Deerwalk Dhading School
     url: https://deerwalk.edu.np/dhading-school
+  - name: Deerwalk Training Center
+    url: https://deerwalktrainingcenter.com/
+  - name: Doko
+    url: http://doko.dwit.edu.np/
+  - name: Deerwalk Almuni
+    url: https://alumni.dwit.edu.np/
+  - name: Deerwalk Learning Center
+    url: https://dlc.dwit.edu.np/
+  - name: Deerwalk Project Hub
+    url: https://projects.deerwalk.edu.np/
+  - name: Deerwalk Intern Manager
+    url: https://internmanager.deerwalk.edu.np/
+  - name: Deerwalk Library
+    url: https://dwitlibrary.deerwalk.edu.np/
 
 assignees: # Users to assign downtime issues (optional)
   - rojen11
   - itdepartmentdwit
+  - Sadikshya07
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
