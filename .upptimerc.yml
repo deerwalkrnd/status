@@ -29,6 +29,12 @@ sites:
     url: https://internmanager.deerwalk.edu.np/
   - name: Deerwalk Library
     url: https://dwitlibrary.deerwalk.edu.np/
+  - name: Deerwalk Job Fair
+    url: https://jobfair.dwit.edu.np/
+  - name: Deerwalk Journal
+    url: https://journal.deerwalk.edu.np/
+  - name: DWIT News
+    url: https://dwitnews.com/
 
 assignees: # Users to assign downtime issues (optional)
   - rojen11
