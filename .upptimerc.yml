@@ -35,7 +35,30 @@ sites:
     url: https://journal.deerwalk.edu.np/
   - name: DWIT News
     url: https://dwitnews.com/
-
+  - name: Deerwalk Resource Manager
+    url: https://drm.deerwalkgroup.com
+  - name: Deerwalk Vacancy
+    url: https://vacancy.deerwalk.edu.np/
+  - name: Deerwalk Profiler
+    url: https://profiler.deerwalk.edu.np/
+  - name: IT4D
+    url: http://it4d.org/
+  - name: Tedx
+    url: https://tedx.deerwalk.edu.np/login
+  - name: Deerwalk Application Manager
+    url: https://application.deerwalk.edu.np/
+  - name: Sifal School Academic Resource Manager
+    url: https://arms.deerwalk.edu.np/
+  - name: Dhading School Academic Resource Manager
+    url: https://arms-dds.deerwalk.edu.np/
+  - name: Sifal School Library
+    url: https://elibrary.deerwalk.edu.np/
+  - name: Sifal School Lesson Plan
+    url: https://lessonplansifal.dwit.edu.np/
+  - name: Dhading School Academic Resource Manager
+    url: http://arms-dds.deerwalk.edu.np/
+  - name: Deerwalk Jobs
+    url: https://jobs.deerwalktrainingcenter.com/
 assignees: # Users to assign downtime issues (optional)
   - rojen11
   - itdepartmentdwit
