@@ -1,7 +1,7 @@
 url: https://foods.deerwalk.edu.np
-status: up
-code: 200
-responseTime: 164
-lastUpdated: 2025-03-29T21:53:44.978Z
+status: down
+code: 500
+responseTime: 457
+lastUpdated: 2025-03-29T22:47:06.682Z
 startTime: 2025-01-04T08:51:13.842Z
 generator: Upptime <https://github.com/upptime/upptime>
