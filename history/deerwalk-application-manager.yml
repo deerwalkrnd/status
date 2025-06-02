@@ -1,7 +1,7 @@
 url: https://application.deerwalk.edu.np/
-status: up
-code: 200
-responseTime: 127
-lastUpdated: 2025-06-02T06:16:31.600Z
+status: down
+code: 500
+responseTime: 292
+lastUpdated: 2025-06-02T10:35:24.252Z
 startTime: 2025-01-22T08:20:24.694Z
 generator: Upptime <https://github.com/upptime/upptime>
