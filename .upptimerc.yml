@@ -60,9 +60,8 @@ sites:
   - name: Deerwalk Jobs
     url: https://jobs.deerwalktrainingcenter.com/
 assignees: # Users to assign downtime issues (optional)
-  - rojen11
+  - dwitrnd
   - itdepartmentdwit
-  - Sadikshya07
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
