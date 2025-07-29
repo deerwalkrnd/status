@@ -59,6 +59,15 @@ sites:
     url: http://arms-dds.deerwalk.edu.np/
   - name: Deerwalk Jobs
     url: https://jobs.deerwalktrainingcenter.com/
+  - name: Deerwalk Help-Desk
+    url: https://helpdesk.deerwalk.edu.np
+  - name: Deerwalk Groups
+    url: https://deerwalkgroup.com/
+  - name: Deerwalk Attendance System
+    url: https://attendance.deerwalk.edu.np/
+  - name: Deerwalk Sifal School Light-house
+    url: https://lighthouse.deerwalk.edu.np/
+
 assignees: # Users to assign downtime issues (optional)
   - dwitrnd
   - itdepartmentdwit
