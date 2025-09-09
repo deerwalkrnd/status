@@ -1,7 +1,7 @@
 url: https://dlc.dwit.edu.np/
-status: up
-code: 200
-responseTime: 1095
-lastUpdated: 2025-09-08T23:17:30.387Z
+status: down
+code: 500
+responseTime: 3126
+lastUpdated: 2025-09-09T03:53:04.354Z
 startTime: 2025-01-06T05:01:41.424Z
 generator: Upptime <https://github.com/upptime/upptime>
